@@ -1,5 +1,3 @@
-from doctest import testmod
-from unicodedata import name
 from django.http import JsonResponse
 from rest_framework.views import APIView
 from rest_framework import generics

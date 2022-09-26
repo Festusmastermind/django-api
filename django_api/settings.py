@@ -47,6 +47,7 @@ INSTALLED_APPS = [
     'django_seed',
     'user',
     'gateway',
+    'event_controller',
 ]
 AUTH_USER_MODEL = 'user.CustomUser'  # overiding the default user Model
 
